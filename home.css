@@ -1,0 +1,74 @@
+body{
+    background-color:midnightblue;
+    font-family: 'Bangers', cursive;
+}
+
+ul#tt li{
+    padding-right:120; 
+    display: inline-table;
+    font-family: 'Bangers', cursive;
+}
+ul#tt{
+    margin-left: 220;
+}
+ul#tt li a{
+    color: yellow;
+    text-decoration: none;    
+    font-size: 20;
+    
+    
+}
+div#tw{
+    font-family: 'Bangers', cursive;
+    background-color: black;
+    text-align: center;
+    padding-top: 30;
+    padding-bottom: 30;
+}
+h1#ee{
+    font-size: 100;
+    color: darkgrey;
+}
+p#er{
+    font-size: 40; 
+    color: cyan;
+}
+div.bh{
+    position: absolute;
+    right: 0;
+    background-color:orangered;
+    height: 700;
+    width: 40%;
+    margin-top: 50px;
+    padding-left: 5%;    
+    padding-top:50;
+    text-align: center
+}
+div#ps{
+    background-color: white;
+    width: 50%;
+    height: 600;
+    margin-top:50;
+    padding-top: 50;
+    padding-bottom: 100;
+    padding-left: 20;
+    text-align: center;
+}
+.headin{
+    font-size: 50px;
+}
+.para{
+    font-size: 20px;
+}
+#end{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    height: 200px;
+}
+.paraa{
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
